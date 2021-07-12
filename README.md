@@ -1,17 +1,17 @@
-<h1 align="center">Hi 👋, I'm Robinson Vatam</h1>
+<h1 align="center">Oi 👋, Me chamo Robinson Vatam</h1>
 <h3 align="center">Estudante em constante aprendizado ;)</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=m1st3ry&label=Profile%20views&color=0e75b6&style=flat" alt="m1st3ry" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=m1st3ry" alt="m1st3ry" /></a> </p>
 
-- 🌱 I’m currently learning **Python e C#**
+- 🌱 Eu estou aprendendo **Python e C#**
 
-- 📫 How to reach me **robinson.vatam@protonmail.com**
+- 📫 Email de contato: **robinson.vatam@protonmail.com**
 
-- 📄 Know about my experiences [Experiencia zero com programacao, estou no terceiro semestre do curso de ADS, e comecando a aprender C# para fortalecer a melhor compreensão de POO.](Experiencia zero com programacao, estou no terceiro semestre do curso de ADS, e comecando a aprender C# para fortalecer a melhor compreensão de POO.)
+- 📄 Sobre minhas experiencias: (Experiencia zero com programacao, estou no terceiro semestre do curso de ADS, e comecando a aprender C# para fortalecer a melhor compreensão de POO.)
 
-- ⚡ Fun fact **Eu tento me divertir enquanto aprendo!**
+- ⚡  **Eu tento me divertir enquanto aprendo!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
