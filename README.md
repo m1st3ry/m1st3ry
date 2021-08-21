@@ -5,11 +5,12 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=m1st3ry" alt="m1st3ry" /></a> </p>
 
-- 🌱 Eu estou aprendendo **Python e C#**
+- 🌱 Eu estou aprendendo **Python, C#, Banco de Dados e Web**
 
 - 📫 Email de contato: **robinson.vatam@protonmail.com**
 
-- 📄 Sobre minhas experiencias: (Experiencia zero com programacao, estou no terceiro semestre do curso de ADS, e comecando a aprender C# para fortalecer a melhor compreensão de POO.)
+- 📄 Sobre minhas experiencias: (Aprendi Python e Logica durante o primeiro semestre, Desenvolvimento Web e POO no segundo e atualmente aprendendo RPA e DEVOPS no terceiros 
+- semetre, como eu nao trabalho na area ainda, eu fico revisando conteudo constantemente, contudo minha area de maior interesse é Back-End, por mais que Front me pareça fantastico, a ideia de criar um banco e gerenciar toda a estrutura que gera a magica parece bastante desafiador e magico, por isso eu gosto mais desta area.)
 
 - ⚡  **Eu tento me divertir enquanto aprendo!**
 
