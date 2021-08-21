@@ -9,8 +9,7 @@
 
 - 📫 Email de contato: **robinson.vatam@protonmail.com**
 
-- 📄 Sobre minhas experiencias: (Aprendi Python e Logica durante o primeiro semestre, Desenvolvimento Web e POO no segundo e atualmente aprendendo RPA e DEVOPS no terceiros 
-- semetre, como eu nao trabalho na area ainda, eu fico revisando conteudo constantemente, contudo minha area de maior interesse é Back-End, por mais que Front me pareça fantastico, a ideia de criar um banco e gerenciar toda a estrutura que gera a magica parece bastante desafiador e magico, por isso eu gosto mais desta area.)
+- 📄 Sobre minhas experiencias: (Aprendi Python e Logica durante o primeiro semestre, Desenvolvimento Web e POO no segundo e atualmente aprendendo RPA e DEVOPS no terceiro semetre, como eu nao trabalho na area ainda, eu fico revisando conteudo constantemente, contudo minha area de maior interesse é Back-End, por mais que Front me pareça fantastico, a ideia de criar um banco e gerenciar toda a estrutura que gera a magica parece bastante desafiador e magico, por isso eu gosto mais desta area.)
 
 - ⚡  **Eu tento me divertir enquanto aprendo!**
 
