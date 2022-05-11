@@ -5,8 +5,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=m1st3ry" alt="m1st3ry" /></a> </p>
 
-- 🌱 Eu estou aprendendo **Python, C#, Banco de Dados e Web**
-- 📄 Sobre minhas experiencias: (Aprendi <span>Python</span> e <span>Lógica da programação</span> durante o primeiro semestre, <span>Desenvolvimento Web</span> e </span>POO</span> no segundo e atualmente aprendendo <span>RPA</span> e </span>DEVOPS</span> no terceiro semetre, como eu nao trabalho na area ainda, eu fico </span>revisando</span> conteudo constantemente, alterando algo que aprendi com <span>novas ideias</span> e <span>novos aprendizados</span>, contudo minha area de maior interesse é <span>Back-End</span>, por mais que Front me pareça <span>fantástico</span>, a idéia de criar um banco e gerenciar toda a estrutura que gera a magica parece bastante desafiador e empolgante, por isso eu gosto mais desta área.)
+- 🌱 Eu estou aprendendo **Python, Web, Banco de Dados e Web**
+- 📄 Devo dizer que por um tempo parei de usar o github, entre instalações e formatações, acabei abandonando a idéia de colocar o que eu faço diariamente aqui, mas vamos novamente voltar a fazer isso. No curso de ADS, eu queria focar mais em banco, contudo gostei bastante de Web, além das possibilidades de Python, como automação e integração Web, mobile também parecia muito tentador, mas era necessário focar em um ponto e seguir a partir daí, nesse caso desenvolvimento Web foi a escolha. Então o foco é HTML, CSS (Eu acho css muito top, mas é muita informação, então vou praticando um pouco com cada coisa), Javascript, Node, React, e depois eu vou seguindo.
 
   - ⚡  **Eu tento me <span>divertir</span> enquanto aprendo!**
 
