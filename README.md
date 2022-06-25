@@ -5,8 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=m1st3ry" alt="m1st3ry" /></a> </p>
 
-- 🌱 Eu estou aprendendo **Python, Web, Banco de Dados e Web**
-- 📄 Devo dizer que por um tempo parei de usar o github, entre instalações e formatações, acabei abandonando a idéia de colocar o que eu faço diariamente aqui, mas vamos novamente voltar a fazer isso. No curso de ADS, eu queria focar mais em banco, contudo gostei bastante de Web, além das possibilidades de Python, como automação e integração Web, mobile também parecia muito tentador, mas era necessário focar em um ponto e seguir a partir daí, nesse caso desenvolvimento Web foi a escolha. Então o foco é HTML, CSS (Eu acho css muito top, mas é muita informação, então vou praticando um pouco com cada coisa), Javascript, Node, React, e depois eu vou seguindo.
+![snake gif](https://github.com/m1st3ry/m1st3ry/blob/output/github-contribution-grid-snake.svg)
 
   - ⚡  **Eu tento me <span>divertir</span> enquanto aprendo!**
 
