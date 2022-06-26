@@ -25,5 +25,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=m1st3ry&show_icons=true&locale=en&layout=compact" alt="m1st3ry" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=m1st3ry&show_icons=true&locale=en" alt="m1st3ry" /></p>
-
-![snake gif](https://github.com/m1st3ry/m1st3ry/blob/output/github-contribution-grid-snake.svg)
