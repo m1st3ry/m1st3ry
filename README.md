@@ -6,6 +6,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=m1st3ry" alt="m1st3ry" /></a> </p>
 
 ![snake gif](https://github.com/m1st3ry/m1st3ry/blob/output/github-contribution-grid-snake.svg)
+![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
 
   - ⚡  **Eu tento me <span>divertir</span> enquanto aprendo!**
 
