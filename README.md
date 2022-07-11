@@ -40,3 +40,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=m1st3ry&show_icons=true&locale=en&layout=compact" alt="m1st3ry" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=m1st3ry&show_icons=true&locale=en" alt="m1st3ry" /></p>
+[![GitHub license](https://img.shields.io/github/license/Naereen/StrapDown.js.svg)](https://github.com/Naereen/StrapDown.js/blob/master/LICENSE)
+
