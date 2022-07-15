@@ -29,7 +29,7 @@
 <a href="https://www.facebook.com/rvatam/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="robinson vatam s" height="30" width="40" /></a>
 </p>
   
-<a href="mailto:robinson.vatam@protonamil.com">
+<a href="robinson.vatam@protonamil.com">
 <img scr="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" alt="protonmail" width="40" height="40"/>
     📫 Email de contato
 </a>
