@@ -1,6 +1,6 @@
 <h1 align="center">Oi 👋, Me chamo Robinson Vatam</h1>
 <h3 align="center">Estudante em constante aprendizado ;)</h3>
-<p> Meu foco de estudo é Desenvolvimento Web, React, Vue.js, Node, SQL, C, C++, Python, Flask.</p>
+<p> Meu foco de estudo é Desenvolvimento Web, React, Vue.js, Node, SQL, Python, Flask.</p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=m1st3ry&label=Profile%20views&color=0e75b6&style=flat" alt="m1st3ry" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=m1st3ry" alt="m1st3ry" /></a> </p>
