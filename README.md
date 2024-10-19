@@ -1,9 +1,10 @@
-<h1 align="center">Oi 👋, Me chamo Robinson Vatam</h1>
-<h3 align="center">Estudante em constante aprendizado ;)</h3>
-<p> Meu foco de estudo é SQL, Python.</p>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=m1st3ry&label=Profile%20views&color=0e75b6&style=flat" alt="m1st3ry" /> </p>
+<h1 align="center">👋 Olá! Sou Robinson, um entusiasta de tecnologia focado em aprender e dominar **Python** e **SQL**.</h1>
+<h3 align="center">Minhas áreas de interesse incluem:</h3>
+<p>- **Automação** e **scripts** em Python. </p>
+<p>- **Manipulação de dados** e **consultas SQL**.</p>
+<p>- Desenvolvimento de projetos para consolidar meu conhecimento.</p>
+<p> 🌱 Sempre aberto a aprender mais e colaborar com a comunidade.</p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=m1st3ry" alt="m1st3ry" /></a> </p>
 
 ![snake gif](https://github.com/m1st3ry/m1st3ry/blob/output/github-contribution-grid-snake.svg)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -22,7 +23,4 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=m1st3ry&show_icons=true&locale=en&layout=compact" alt="m1st3ry" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=m1st3ry&show_icons=true&locale=en" alt="m1st3ry" /></p>
 
